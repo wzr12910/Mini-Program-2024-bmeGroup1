@@ -4,7 +4,9 @@
     "pages/index/index",
     "pages/map/map",
     "pages/training/training",
-    "pages/profile/profile"
+    "pages/profile/profile",
+    "pages/feedback/feedback"
+
   ],
   "window": {
     "backgroundTextStyle": "light",
